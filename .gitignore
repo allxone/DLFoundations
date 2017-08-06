@@ -1,0 +1,4 @@
+_deep-learning
+_TensorFlow-Examples
+.ipynb_checkpoints
+*.ckpt.*
